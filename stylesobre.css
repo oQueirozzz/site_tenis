@@ -57,6 +57,11 @@ li a:hover{
     width: 98.3vw;
     height: 250px;
 }
+.banner10{
+    background: url(img_nike/Captura\ de\ tela_6-9-2024_162229_www.nike.com.br.jpeg);
+    width: 98.3vw;
+    height: 250px;
+}
 .box{
     width: 95vw;
     height: 300px;
@@ -129,8 +134,81 @@ h2{
     height: 1035px;
 }
 .texto1{
-    margin: auto;
+
+    width: 600px;
+    padding-top: 50px;
+    height: 300px;
 }
 .box{
-    
+width: 100%;
 }
+input{
+    color: rgba(255, 255, 255, 0.3);
+    height: 40px;
+    border-radius: 20px;
+    padding: 0px 20px;
+    margin-bottom: 20px;
+    color: rgb(0, 0, 0);
+
+}
+h3{
+    font-weight: normal;
+    font-size: 24px;
+    width: 800px;
+    height: 200px;
+    margin: auto;
+    text-align: center;
+    padding: 0 auto;
+    display: block;
+    padding-left: 510px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+}
+.pai{
+    display: flex;
+    justify-content: space-between ;
+    width: 80%;
+    }
+    .filho{
+    width: 800px;
+    padding: 10px;
+    }
+    .filho:hover{
+        transition-duration: 0.5s;
+        transform: scale(0.96);
+    }
+    .filho img{
+        width: 100%;
+    }
+    .filho h3{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .filho button{
+        background: rgb(0, 0, 0);
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+    
+    }
+    .contato{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+        gap: 2rem;
+    }
+    button{
+        height: 50px;
+    border-radius: 30px;
+    padding: 0px 20px;
+    margin-bottom: 25px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    width: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bolder;
+    cursor: pointer;
+    }
+

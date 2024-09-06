@@ -37,8 +37,14 @@ nav img{
     margin: auto 0;
 
 }
-input{
+.pesquisa{
     width: 600px;
+    color: rgba(255, 255, 255, 0.3);
+    height: 40px;
+    border-radius: 20px;
+    padding: 0px 20px;
+    margin-bottom: 20px;
+    color: rgb(0, 0, 0);
 }
 li a{
     text-decoration: none;
