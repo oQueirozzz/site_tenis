@@ -6,4 +6,13 @@ input{
     padding: 0px 20px;
     margin-bottom: 20px;
     color: rgb(0, 0, 0);
+    border: solid 2px black;
+}
+button:hover{
+    background-color: rgba(239, 239, 239, 0.883);
+}
+
+
+#carrinho:hover{
+    background-color: rgba(31, 30, 30, 0.912);
 }
