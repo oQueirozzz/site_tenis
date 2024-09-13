@@ -16,3 +16,6 @@ button:hover{
 #carrinho:hover{
     background-color: rgba(31, 30, 30, 0.912);
 }
+.tamanho{
+    font-size: 20px;
+}
